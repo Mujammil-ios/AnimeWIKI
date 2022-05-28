@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/explore_id"
+        android:title="Explore"
+        android:icon="@drawable/search"/>
+    <item
+        android:id="@+id/top_id"
+        android:title="Top"
+        android:icon="@drawable/list"/>
+
+    <item
+        android:id="@+id/random_id"
+        android:title="Random"
+        android:icon="@drawable/random"/>
+
+</menu>
