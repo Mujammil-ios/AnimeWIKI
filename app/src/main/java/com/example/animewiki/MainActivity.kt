@@ -3,13 +3,11 @@ package com.example.animewiki
 import android.annotation.SuppressLint
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.renderscript.ScriptGroup
-import android.widget.Toast
-import com.google.android.material.bottomnavigation.BottomNavigationView
-import com.google.android.material.navigation.NavigationBarView
-import com.google.android.material.navigation.NavigationView
 import androidx.fragment.app.Fragment
 import com.example.animewiki.databinding.ActivityMainBinding
+import com.example.animewiki.ui.ExploreFragment
+import com.example.animewiki.ui.RandomFragment
+import com.example.animewiki.ui.TopFragment
 
 class MainActivity : AppCompatActivity() {
 
